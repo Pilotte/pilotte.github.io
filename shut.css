@@ -1,0 +1,40 @@
+html {
+    background-image: linear-gradient(45deg, #e5d2ff, #9ac8f5);
+    background-repeat: no-repeat;
+    color: #606062;
+    font-family: 'Satisfy', cursive;
+    padding: 20px 50px 0px;
+    min-height: 100%;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 10px solid rgba(0, 0, 0, 0);
+    box-shadow: 3px 5px 50px 0px rgba(0, 0, 0, 0.58);
+    padding: 20px 10px 0px;
+}
+
+.emph {
+    color: #c91f5a;
+}
+
+.myGod {
+    color: #8e1b5d;
+    font: bold 100px 'Cookie', cursive;
+}
+
+.whatthe {
+    font-size: 25px;
+}
+
+#full {
+    width: 100%;
+}
+
+.whatthe2 {
+    font-size: 10px;
+}
+
+audio {
+    width: 500px;
+}
